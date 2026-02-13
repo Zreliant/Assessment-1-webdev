@@ -1,23 +1,23 @@
 body {
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 header {
-    background-color: lightgray;
+    background-color: #dddddd;
     padding-top: 0.1em;
-    padding-left: 1em;
     padding-bottom: 1em;
-}
+    padding-left: 1em;
+} 
 
 .substitute {
-    background-color: lightgray;
+    background-color: #dddddd;
     padding-top: 2em;
     padding-bottom: 2em;
     padding-left: 1em;
 }
 
 footer {
-    background-color: lightgrey;
+    background-color: #dddddd;
     padding-top: 2em;
     padding-bottom: 2em;
     padding-left: 1em;
