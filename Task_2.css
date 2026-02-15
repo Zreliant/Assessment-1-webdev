@@ -1,29 +1,59 @@
-body {
-    background-color: ;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-header {
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    padding: 20px 60px;
+}
+
+.Page {
+    background-color: white;
+    border-radius: 20px;
+    padding: 40px 20px;
+}
+
+h1 {
+    font-family: Anton;
+    font-size: 80px;
+    color: green;
     text-align: center;
-    font-size: 2em;
-    margin-bottom: -0.5em;
+    margin-bottom: 5px;
 }
 
 h2 {
+    font-family: Anton;
+    font-size: 48px;
+    color: green;
     text-align: center;
-    font-size: 2.25em;
+    margin-bottom: 10px;
 }
 
-h3 {
-    font-size: 2em;
-    font-weight: bold;
-}   
+p {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
 
-.knowledge {
+.Knowledge {
     background-color: green;
-    padding-top: 0.1em;
-    padding-bottom: 0.1em;
-    padding-left: 1em;
-    padding-right: 1em;
-    margin-left: 1em;
-    margin-right: 1em;
+    color: white;
+    padding: 15px;
+    border-radius: 25px;
+    margin: 20px 0;
+}
+
+.Knowledge h3 {
+    font-family: Anton;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.Knowledge p {
+    font-family: sans-serif;
+    font-size: 18px;
 }
