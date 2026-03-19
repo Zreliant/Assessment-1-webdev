@@ -11,10 +11,12 @@ header {
     text-align: center;
 }
 
+/* Decoration Image */
 .Decor {
     width: 800px;
 }
 
+/* Shopping Cart */
 .Cart {
     position: relative;
     left: 10px;
@@ -27,6 +29,8 @@ main {
     margin: auto;
 }
 
+
+/* Section */
 .post {
     margin: 5px 0;
     text-align: left;
@@ -37,6 +41,7 @@ main {
     height: auto;
 }
 
+/* Text for image */
 .caption {
     background-color: beige;
     color: cyan;
@@ -45,6 +50,7 @@ main {
     font-weight: bold;
 }
 
+/* Random button */
 button {
     margin-top: 0px;
     padding: 5px 10px;
@@ -53,6 +59,7 @@ button {
     cursor: pointer;
 }
 
+/* Footer / Nav */
 footer {
     margin-top: 20px;
     padding: 20px;

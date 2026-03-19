@@ -12,12 +12,14 @@ body {
     padding: 20px 60px;
 }
 
+/* Border */
 .Page {
     background-color: white;
     border-radius: 20px;
     padding: 40px 20px;
 }
 
+/* Info */
 h1 {
     font-family: Anton;
     font-size: 5em;
@@ -39,6 +41,7 @@ p {
     margin-bottom: 15px;
 }
 
+/* Did you know? */
 .Knowledge {
     background-color: green;
     color: white;
